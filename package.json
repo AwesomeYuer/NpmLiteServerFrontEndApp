@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Microshaoft/NpmLiteServerFrontEndApp#readme",
   "dependencies": {
-    "lite-server": "^2.4.0"
+    "lite-server": "^2.6.1"
   }
 }
